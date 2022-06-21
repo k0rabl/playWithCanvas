@@ -1,0 +1,29 @@
+{
+  "name": "playwithcanvas",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k0rabl/playWithCanvas.git"
+  },
+  "author": "korabl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k0rabl/playWithCanvas/issues"
+  },
+  "homepage": "https://github.com/k0rabl/playWithCanvas#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "parcel": "^2.6.1",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "process": "^0.11.10"
+  }
+}

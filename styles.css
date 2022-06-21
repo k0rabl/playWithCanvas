@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(16, 0, 74);
+}
+
+#firstExample {
+    /* border-radius: 15px; */
+    /* padding: 15px; */
+    background-color: #fff;
+}
